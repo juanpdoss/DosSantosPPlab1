@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1588979380 source:c:\users\juan pablo\desktop\mibiblioteca\utn_biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_biblioteca.h"
+
+1588978655 c:\users\juan pablo\desktop\mibiblioteca\utn_biblioteca.h
+
+1589371280 source:c:\users\juan pablo\desktop\pplab1\pplab1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"../../mibiblioteca/utn_biblioteca.h"
+	<string.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1589371048 c:\users\juan pablo\desktop\pplab1\pplab1\fecha.h
+
+1589377997 c:\users\juan pablo\desktop\pplab1\pplab1\tipo.h
+
+1589377997 c:\users\juan pablo\desktop\pplab1\pplab1\color.h
+
+1589377123 c:\users\juan pablo\desktop\pplab1\pplab1\moto.h
+
+1589380797 c:\users\juan pablo\desktop\pplab1\pplab1\servicio.h
+
+1589380818 c:\users\juan pablo\desktop\pplab1\pplab1\trabajo.h
+	"bici.h"
+
+1589380797 source:c:\users\juan pablo\desktop\pplab1\pplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	"../../mibiblioteca/utn_biblioteca.h"
+	<string.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1589381346 source:c:\users\juan pablo\desktop\pplab1\pplab1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"../../mibiblioteca/utn_biblioteca.h"
+	<string.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1589377997 source:c:\users\juan pablo\desktop\pplab1\pplab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	"../../mibiblioteca/utn_biblioteca.h"
+	<string.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1589380797 source:c:\users\juan pablo\desktop\pplab1\pplab1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	"../../mibiblioteca/utn_biblioteca.h"
+	<string.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1589377997 source:c:\users\juan pablo\desktop\pplab1\pplab1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"../../mibiblioteca/utn_biblioteca.h"
+	<string.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1589380797 source:c:\users\juan pablo\desktop\pplab1\pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../../mibiblioteca/utn_biblioteca.h"
+	<string.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"bici.h"
+
+1589379405 c:\users\juan pablo\desktop\pplab1\pplab1\bici.h
+
+1589380797 source:c:\users\juan pablo\desktop\pplab1\pplab1\bici.c
+	<stdio.h>
+	<stdlib.h>
+	"../../mibiblioteca/utn_biblioteca.h"
+	<string.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"bici.h"
+
